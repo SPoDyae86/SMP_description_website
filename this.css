@@ -1,0 +1,16 @@
+body {text-align: center; background-color:#05002b;}
+.subtitle {font-family: 'Comfortaa', cursive; font-size:40px; color: 	#ffb300}
+.text {font-family: 'Josefin Sans', sans-serif; color: white; font-size: 35px;text-align:left; padding-left: 35px;padding-right: 15px}
+.line {height: 6px; width: 700px; background-color:darkred; margin: 8px auto; margin-top: 49px}
+.link {float: center; color:#e2d5f5; padding-top: 0px; padding-bottom: 5px; padding-left: 21px; padding-right: 21px;font-family: 'Open Sans Condensed', sans-serif; font-size: 50px; list-style: none}
+.link:hover {text-decoration:underline; text-decoration-color: orange; font-size: 52px;color:darkcyan;text-shadow: 2px 2px;}
+#v1 {width: 55%; height= 65%}
+#v2 {width= 15%; width= 15%}
+.subtext{ font-family: 'Josefin Sans', sans-serif; color: white; font-size: 20px; max-width: 1150px;text-align:center}
+.subheading {font-family: 'Comfortaa', cursive; font-size:105px; color: 	#ffb300}
+.menu {color:lavender}
+#logo{width:75%; height:75%}
+#hr1 {border: 7px dotted #00c3ff}
+#EndCredits {font-family: 'Archivo', sans-serif; color: white; font-size: 20px; max-width: 1150px;margin-left: 350px}
+#Name {font-family: 'Archivo', sans-serif; color: white; font-size: 20px; max-width: 1150px;margin-left: 350px}
+#End {Text-align: right}
